@@ -7,6 +7,8 @@
 #include <functional>
 #include <condition_variable>
 
+#include <wolv/types.hpp>
+
 namespace wolv::util {
 
         class ThreadPool {
